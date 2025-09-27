@@ -1,6 +1,6 @@
 # 客户端简介
 
-Lighter-Aster 010 是 AlphaLabs 的官方客户端应用，为用户提供统一的交易插件管理和监控界面。
+Lighter-Aster 010 是 AlphaLabs 的官方客户端应用，为用户提供自动化对冲的服务。
 
 ## 系统要求
 
