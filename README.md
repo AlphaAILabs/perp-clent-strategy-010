@@ -23,7 +23,7 @@ Lighter-Aster 010 是 AlphaLabs 的官方客户端应用，为用户提供统一
 ### 激活要求
 1. **申请激活码**：需通过 AlphaLabs 官方 Telegram 群组申请产品激活码
 2. **邀请码验证**：必须使用 AlphaLabs 提供的 Aster 平台邀请码完成注册
-3. **地址绑定**：向管理员 @Cryptonymk 或 @quarticcat3 提交 EOA 地址，获取专属激活码（激活码与 EOA 地址绑定，不可转移）
+3. **地址绑定**：向管理员 [@Cryptonymk](https://t.me/Cryptonymk) 或 [@quarticcat3](https://t.me/quarticcat3) 提交 EOA 地址，获取专属激活码（激活码与 EOA 地址绑定，不可转移）
 4. **安全提醒**：如果从非 AlphaLabs 渠道获取该产品，有任何安全问题，AlphaLabs 不会对此承担任何责任
 
 ## 核心优势：极致去同化
@@ -61,14 +61,15 @@ Alpha Labs做到了最大差异化，但是官方的女巫规则是一个黑盒�
 
 ### 技术支持
 - **官方 Telegram 群组**：获取实时支持和更新通知
-- **管理员联系**：@Cryptonymk 或 @quarticcat3
+- **管理员联系**：[@Cryptonymk](https://t.me/Cryptonymk) 或 [@quarticcat3](https://t.me/quarticcat3)
 
 ## 使用注意事项
 
-### 停止策略
-- **重要**：在确认停止策略时，请务必直接关闭客户端
-- 关闭客户端后，请手动前往交易所平掉所有持仓
-- 不要通过其他方式停止，以确保策略正确终止和风险控制
+> [!IMPORTANT]
+> ### 停止策略
+> - 在确认停止策略时，**请务必直接关闭客户端**
+> - 关闭客户端后，**请手动前往交易所平掉所有持仓**
+> - 不要通过其他方式停止，以确保策略正确终止和风险控制
 
 ## 免责声明
 
